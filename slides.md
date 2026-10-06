@@ -94,3 +94,24 @@ src: ./pages/02-negative/02-budget.md
 ---
 src: ./pages/02-negative/03-hierarchy.md
 ---
+
+---
+# ── 03 · Положительная обратная связь ──
+src: ./pages/03-positive/00-section.md
+---
+
+---
+src: ./pages/03-positive/01-retry.md
+---
+
+---
+src: ./pages/03-positive/02-cache.md
+---
+
+---
+src: ./pages/03-positive/03-metastable.md
+---
+
+---
+src: ./pages/03-positive/04-analysis.md
+---
