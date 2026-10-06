@@ -115,3 +115,12 @@ src: ./pages/03-positive/03-metastable.md
 ---
 src: ./pages/03-positive/04-analysis.md
 ---
+
+---
+# ── 04 · Предел автоматики ──
+src: ./pages/04-limit/01-countermeasures.md
+---
+
+---
+src: ./pages/04-limit/02-ashby.md
+---
