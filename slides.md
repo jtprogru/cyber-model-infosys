@@ -77,3 +77,20 @@ src: ./pages/01-model/03-open-loop.md
 ---
 src: ./pages/01-model/04-limits.md
 ---
+
+---
+# ── 02 · Отрицательная обратная связь ──
+src: ./pages/02-negative/00-section.md
+---
+
+---
+src: ./pages/02-negative/01-hpa.md
+---
+
+---
+src: ./pages/02-negative/02-budget.md
+---
+
+---
+src: ./pages/02-negative/03-hierarchy.md
+---
