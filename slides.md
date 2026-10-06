@@ -59,3 +59,21 @@ src: ./pages/00-intro/01-speaker.md
 ---
 src: ./pages/00-intro/02-question.md
 ---
+
+---
+# ── 01 · Модель ──
+src: ./pages/01-model/01-model.md
+---
+
+---
+src: ./pages/01-model/02-loop.md
+---
+
+---
+# свой пример разомкнутого контура: цифры из доклада для Стачки, источник 11
+src: ./pages/01-model/03-open-loop.md
+---
+
+---
+src: ./pages/01-model/04-limits.md
+---
