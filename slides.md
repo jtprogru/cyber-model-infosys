@@ -124,3 +124,17 @@ src: ./pages/04-limit/01-countermeasures.md
 ---
 src: ./pages/04-limit/02-ashby.md
 ---
+
+---
+# ── 05 · финал ──
+src: ./pages/05-outro/01-conclusions.md
+---
+
+---
+src: ./pages/05-outro/02-questions.md
+---
+
+---
+# список источников: по ссылке со слайда «Вопросы», по номеру источника в тексте и обычным «далее»
+src: ./pages/05-outro/03-sources.md
+---
