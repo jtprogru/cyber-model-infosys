@@ -1,0 +1,32 @@
+{
+  "$schema": "https://unpkg.com/@aliou/pi-guardrails@0.24.0/schema.json",
+  "pathAccess": {
+    "allowedPaths": [
+      {
+        "kind": "directory",
+        "path": "~/.codex/.bear-skills/rules"
+      },
+      {
+        "kind": "directory",
+        "path": "/var/folders/hh/cw726_mj1s5g4gk5nz3bm_7r0000gn/T/git-backlog-triage-ca2nalv2"
+      },
+      {
+        "kind": "directory",
+        "path": "/var/folders/hh/cw726_mj1s5g4gk5nz3bm_7r0000gn/T"
+      },
+      {
+        "kind": "directory",
+        "path": "~/Library/Caches/ms-playwright"
+      },
+      {
+        "kind": "file",
+        "path": "/tmp"
+      },
+      {
+        "kind": "file",
+        "path": "/cyber-model-infosys"
+      }
+    ]
+  },
+  "version": "0.24.0"
+}
